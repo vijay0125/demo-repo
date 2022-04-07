@@ -6,3 +6,8 @@ Hi i am from local machine
 Hi i am from local machine
 Hi i am from local machine
 Hi i am from local machine
+hello i am from server machine.
+
+
+
+we can access
