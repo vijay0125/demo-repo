@@ -1,0 +1,13 @@
+Tutorial : https://www.youtube.com/watch?v=eL_0Ok_Gkas
+
+1)login git hub
+2)create new resporitory in chrome
+3)commit in chrome
+4)open the git bash our in desktop
+5)copy the link from github(chrom)
+paste it to git bash(git clone https://github.com/vijay0125/valve_triger-.git)
+6)git status(git bash)
+7)git add file into local server(Ex:git add file name)
+8)git status (git bash)
+9)git commit -m 'give version or identification code version name'(git bash)
+10)git push (git bash local server global server)

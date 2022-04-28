@@ -1,0 +1,18 @@
+change diroctory - cd F:
+Directory - Folder
+Terminal or commandline - Interface for text commands
+CLI - command line interface 
+CD - change directory
+code editor - Word processor for writting code
+Repository - project, or the folder/place where your project is kept
+
+Git commands(commands only used for lower case not upper case)
+
+Clone -> Bring a repository that is hosted somewhere like github into a folder on your local machine
+add   -> Track your files and changes in git
+commit -> save your files in git
+push   -> upload git commits to a remote repo,like github
+pull  -> Download changes from remote repo to your local machine,the opposite of push
+
+ 
+
